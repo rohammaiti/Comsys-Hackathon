@@ -14,3 +14,14 @@ Task B Google Colab code link- https://colab.research.google.com/drive/1rS20lb8L
 
 To evaluate test data, enter test data in the last cells of the colab files after execution. The run time for Task A is approximately 40 minutes
 and for Task B it is nearly 3 hours.
+
+
+For Task A, we have achieved an accuracy ranging between 91-92 percent. 
+Males: Precision- 93%, Recall- 96% and F1 score- 95%.
+Females: Precision- 86%, Recall- 79% and F1 score- 83%.
+
+For Task B-
+Top-1 Accuracy: 94.65 %
+Macro Precision: 100.00 %
+Macro Recall: 94.65 %
+Macro F1 Score: 97.25 %
