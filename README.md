@@ -6,7 +6,11 @@ it is reccomended to use the "densenet169_gender_best.keras" file for evaluation
 one can enter both the directory path along with the weights file or the image to get predicted output. For task B, one can enter the
 test data path, for this purpose. Both the models were made on Google Colab and executed using T4-GPU.
 
-Task A output link- https://drive.google.com/drive/folders/1j4aJOwmrCxRmy0asjzZscM4LSmQgi-SF?usp=sharing
+Task A output and weights link- https://drive.google.com/drive/folders/1j4aJOwmrCxRmy0asjzZscM4LSmQgi-SF?usp=sharing
 Task A Google Colab code link- https://colab.research.google.com/drive/19Dr9bl1hOxAFBTH3W932CMks9yNRgY7A?usp=sharing
 
-Task B Google Colab code link- https://colab.research.google.com/drive/1H8WeTZSWLuqPhMT_7K0hnLz56bBMTjCf?usp=sharing
+Task B output and weights link- https://drive.google.com/drive/folders/1cNURexLmokQfGTiAA2pwRQ8R3XftHjlk?usp=sharing
+Task B Google Colab code link- https://colab.research.google.com/drive/1rS20lb8LM3fagpVZ41BLVH4SxnpTqSaX?usp=sharing
+
+To evaluate test data, enter test data in the last cells of the colab files after execution. The run time for Task A is approximately 40 minutes
+and for Task B it is nearly 3 hours.
